@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "ID_0": 186, "ISO": "RUS", "NAME_0": "Russia", "ID_1": 01, "NAME_1": "Ростов. Железнодорожный", "NL_NAME_1": "Ростов. Железнодорожный", "VARNAME_1": "", "TYPE_1": "Oblast", "ENGTYPE_1": "Region" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.675307, 47.211012 ], [ 39.675307, 47.211012 ], [ 39.675307, 47.211012 ], [ 39.675307, 47.211012 ] ] ] ] } },
+{ "type": "Feature", "properties": { "ID_0": 186, "ISO": "RUS", "NAME_0": "Russia", "ID_1": 02, "NAME_1": "Ростов. Кировский", "NL_NAME_1": "Ростов. Кировский", "VARNAME_1": "", "TYPE_1": "Oblast", "ENGTYPE_1": "Region" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.728505, 47.228149 ], [ 39.728505, 47.228149 ], [ 39.728505, 47.228149 ], [ 39.728505, 47.228149 ] ] ] ] } },
+{ "type": "Feature", "properties": { "ID_0": 186, "ISO": "RUS", "NAME_0": "Russia", "ID_1": 03, "NAME_1": "Ростов. Ленинский", "NL_NAME_1": "Ростов. Ленинский", "VARNAME_1": "", "TYPE_1": "Oblast", "ENGTYPE_1": "Region" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 39.692465, 47.224636 ], [ 39.692465, 47.224636 ], [ 39.692465, 47.224636 ], [ 39.692465, 47.224636 ] ] ] ] } }
+]
+}
